@@ -1,0 +1,5 @@
+/////infosecwriteups
+
+
+
+*/=alert(“XSS”)/*

